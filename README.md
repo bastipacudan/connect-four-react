@@ -1,11 +1,13 @@
 # connect-four-react
 
 
-### Installation
 
- *npm install
- *npm run build
- *npm start
- *go to localhost:3000 and enjoy!
- 
+### Installing
+
+* npm install
+* npm start
+* npm run build
+* Open Localhost:3000 play and enjoy!
+```
+
 ```
